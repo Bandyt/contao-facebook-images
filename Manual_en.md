@@ -1,0 +1,1 @@
+The manual has moved. You find the manual now [here](http://bandyt.de/contao-facebook-images-manual.html)

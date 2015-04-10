@@ -1,0 +1,1 @@
+Die Anleitung wurde verschoben. Sie finden die Anleitung nun [hier](http://bandyt.de/contao-facebook-images-anleitung.html)
